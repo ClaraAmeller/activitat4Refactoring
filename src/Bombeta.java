@@ -9,7 +9,7 @@
  * @version 1.1 Octubre de 2011
  */
 public class Bombeta {
-
+// He afegit aquest comentari
 /* Comentari no-javadoc
 la intensitat va de 1 a 4, amb 5 es crema
 intensitat = 0 vol dir apagada, redundant */
